@@ -1,5 +1,4 @@
-# 🎮 Tetris - Xếp Hình (Vibe Coding Using Claude Sonnet 4.6) =)))))
-
+# 🎮 Tetris - Xếp Hình
 Game xếp hình Tetris cổ điển được xây dựng bằng Python và Pygame.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
